@@ -1,0 +1,2 @@
+hi
+this is the first file , i pushed in my git repo
